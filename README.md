@@ -1,28 +1,6 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+A Flutter app which shows the real-time exchange values of Bitcoin, Ethereum and LiteCoin in almost all popular currencies 
+like INR, USD, EUR etc. It leverages CoinAPI.io, a cryptocurrency API
 
-
-# Bitcoin Ticker 🤑
-
-## Our Goal
-
-The objective of this tutorial is to learn about using Cupertino and Material Widgets in parallel and providing a different user interface depending on the platform.
-
-
-## What you will create
-
-We’re going to make a crypto currency price checking app. By the end of the module, you'll be able to monitor your bitcoin investents on the move!
-
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bitcoin-flutter-demo.gif)
-
-## What you will learn
-
-- How to use the DropdownButton Widget from Material design.
-- How to loop through code using Dart for and for-in loops.
-- How to use Cupertino Widgets in your app.
-- How to check the platform your app is being run on to customise the UI for that platform.
-- Revise previous concepts by completing the challenges.
-
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+![image](https://github.com/imakhxl/Bitcoin-Ticker---Flutter/assets/143579088/0c26d042-05f6-4922-80f0-4844a41bb047)
+![image](https://github.com/imakhxl/Bitcoin-Ticker---Flutter/assets/143579088/f7bd088e-e606-4e2d-8370-59ccc84fe183)
+![image](https://github.com/imakhxl/Bitcoin-Ticker---Flutter/assets/143579088/8f36731d-3356-404f-8592-42623706d37f)
