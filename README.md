@@ -1,3 +1,5 @@
+# Bitcoin Ticker
+
 A Flutter app which shows the real-time exchange values of Bitcoin, Ethereum and LiteCoin in almost all popular currencies 
 like INR, USD, EUR etc. It leverages CoinAPI.io, a cryptocurrency API
 
