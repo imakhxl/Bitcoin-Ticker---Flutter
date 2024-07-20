@@ -32,7 +32,7 @@ const List<String> cryptoList = [
 ];
 
 const coinAPIURL = 'https://rest.coinapi.io/v1/exchangerate';
-const kAPIkey = 'EF62AF66-2BA5-4B0D-8891-2C0AB5DDAD29';
+const kAPIkey = 'INSERT YOUR API KEY HERE';
 
 class CoinData {
   //3. Create the Asynchronous method getCoinData() that returns a Future (the price data).
